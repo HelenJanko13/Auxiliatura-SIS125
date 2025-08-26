@@ -1,6 +1,6 @@
-# 📚 Caso de Estudio: Sistema de Reservas de Restaurante Gourmet
+#  Caso de Estudio: Sistema de Reservas de Restaurante Gourmet
 
-## 📖 Descripción del caso
+##  Descripción del caso
 El restaurante **Gourmet Express** recibe llamadas y mensajes de WhatsApp de clientes para reservar mesas.  
 Actualmente, anotan las reservas en una libreta. Esto provoca problemas:
 
@@ -10,7 +10,7 @@ Actualmente, anotan las reservas en una libreta. Esto provoca problemas:
 
 ---
 
-## 🎯 Objetivos del nuevo sistema
+##  Objetivos del nuevo sistema
 El administrador quiere un sistema informático que permita:
 
 - Registrar reservas de clientes (nombre, fecha, hora, número de personas).  
